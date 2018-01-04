@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Created by xschen on 15/9/2017.
  */
 @SpringBootApplication
-public class ServerApplication {
+public class ElasticSearchServerApplication {
    public static void main(String[] args) {
-      SpringApplication.run(ServerApplication.class, args);
+      SpringApplication.run(ElasticSearchServerApplication.class, args);
    }
 }
